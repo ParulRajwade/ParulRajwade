@@ -1,11 +1,15 @@
-- 👋 Hi, I’m @ParulRajwade
+- 👋 Hi, I’m @ParulRajwade. 
 - 👀 I’m interested in FrontEnd and BackEnd Development.
-- 🌱 I’m currently learning about how i can upgrade my skills
-- 💞️ I’m looking to collaborate on Entry level projects
+- 🌱 I’m currently learning about how I can upgrade my skills
+- 💞️ I’m looking to collaborate on Entry level Web Development projects
 - 📫 How to reach me.....
-    1. www.linkedin.com/in/parul-rajwade
-    2. https://www.hackerrank.com/cryptic_techie06
-
+    1. LinkedIn - www.linkedin.com/in/parul-rajwade
+    2. HackerRank
+    3. Github 
+    
+    
+- *Secret Fun Fact about Me*
+    I love travelling, shopping and Sleeping
 <!---
 ParulRajwade/ParulRajwade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
