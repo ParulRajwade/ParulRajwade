@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ParulRajwade. 
-- 👀 I’m interested in FrontEnd and BackEnd Development.
-- 🌱 I’m currently learning about Web Technologies.
+- 👀 I’m currently learning about Data Science.
+- 🌱 I’m currently learning about Machine Learning.
 - 💞️ I’m looking to collaborate on Entry level Web Development Projects and Machine Learning .
 - 📫 How to reach me.....
     1. LinkedIn - www.linkedin.com/in/parul-rajwade
