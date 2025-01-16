@@ -5,6 +5,7 @@
 - 📫 How to reach me.....
     1. LinkedIn - www.linkedin.com/in/parul-rajwade
     2. HackerRank - https://www.hackerrank.com/cryptic_techie06
+    3. Kaggle : https://www.kaggle.com/parulrajwade
     
     
 - *Secret Fun Fact about Me*
